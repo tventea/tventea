@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tventea
-- 👀 I’m interested in Coding, Exploiting
+- 👀 I’m interested in Coding, Web Developing, App Developing
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me github.charting599@simplelogin.com
